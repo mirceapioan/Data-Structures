@@ -1,2 +1,2 @@
 # Data-Structures
-UPB-ACS-Structuri de date
+UPB ---- ACS ---- Structuri de date
